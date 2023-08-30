@@ -23,4 +23,4 @@ Commerce Admin
 
 ---
 
-updatedAt - 2023/08/18
+updatedAt - 2023/08/30
